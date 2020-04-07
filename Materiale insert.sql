@@ -1,0 +1,2 @@
+INSERT INTO Furnizor (Nume,NumarTelefon)
+VALUES ('UstensileSRL','0765789321'),('Sergiu','Simionca', '0740190884'),('Nelutu','Omat','0751234560'),('Bobi','Valer','0765987258'),('Razvan','Caine','0745369741'),('Grigore','Masa','0768125795'),('Ion','Casa','0734753159'),('Andrei','Tabla','0789321456')
